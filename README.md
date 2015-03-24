@@ -10,18 +10,18 @@
 <br/>
 <h4>============TECHNO==============</h4>
 <p>Anyway here a short list of some third-party technologies used in project:</p>
-  PHP
+  -PHP
+  <br/>
+  -MySql<br/>
+    --SafeMySQL.class<br/>
   
-  MySql
-    SafeMySQL.class
+  -CSS<br/>
+    --normalize.css<br/>
+    --Bootstrap<br/>
+    --Hover.css<br/>
+    --FontAwesome<br/>
   
-  CSS
-    normalize.css
-    Bootstrap
-    Hover.css
-    FontAwesome
-  
-  JS
-    jQuery
+  -JS<br/>
+    --jQuery<br/>
     
-The project is under active development, and this list will be changed after all final works.
+<p>The project is under active development, and this list will be changed after all final works.</p>
